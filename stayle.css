@@ -1,0 +1,161 @@
+div[name="mother"]{
+    width: 100%;
+    height: 100%;
+  overflow: hidden;
+}
+div[name="stky"]{
+  position: sticky;
+  margin-top: 0px;
+}
+div[name="leftpage"]{
+width: 18%;
+height: 500px;
+background-color: white;
+border-style: groove;
+border-radius: 12px;
+margin-top: 30px;
+margin-left: 10%;
+float: left;
+}
+div[name="leftpage2"]{
+  width: 18%;
+  height: 500px;
+  background-color: white;
+  border-style: groove;
+  border-radius: 12px;
+  margin-top: 10px;
+  margin-left: 8%;
+  float: right;
+  }
+  div[name="leftpage3"]{
+    width: 18%;
+    height: 500px;
+    background-color: white;
+    border-style: groove;
+    border-radius: 12px;
+    margin-top:-2800px ;
+    margin-right: 220px;
+    float: right;
+    }
+ div[class="class1"]{
+  margin-right: 220px;
+  margin-top: 30px;
+ }
+ .class1 #list{
+   text-align: center;
+ }
+
+
+
+.img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  margin-top: 12%;
+}
+a{
+  margin-top: 10%;
+    text-decoration: none;
+    
+}
+h3{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+h4{
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.smallimg {
+  display: block;
+  margin-left: 100px;
+  margin-top: -9px;
+}
+p{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+ul{
+  list-style: none;
+  }
+  li {
+    margin-top: 15px;
+    margin-left:70px;
+    width: 5%;
+    float: left; 
+  }
+  #p1 {
+    margin-top: 100px;
+    
+  }
+  input[name="search"]{
+    background-color: #DBE5E8;
+    height: 20px;
+    width: 300px;
+  }
+  ul[name="ul2"]{
+    list-style: none;
+    margin-top: -9px;
+    margin-left:100px;
+    float: left;
+  }
+  #list{
+    margin-left: 0;
+    margin-top: 20px;
+    
+  }
+  input[name="post"]{
+    background-color:white;
+    height: 50px;
+    width: 400px;
+    border-radius: 12px;
+  }
+  #content{
+    margin-left: 200px;
+    width: 47%;
+    background-color: white;
+   margin: 5px;
+    margin-left:400px;  
+    float: left;
+     border-style: groove; 
+    border-radius: 12px;
+  }
+  .sss{
+    width: 40%;
+    background-color: turquoise;
+  }
+  .lfft{
+    width: 95%;
+      float: left;
+      margin-left: 2px;
+  }
+  .button4 {
+    background-color: white;
+    border: 2px solid black;
+    color:silver;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 12px;
+  }
+  .class:hover{
+background-color: blue;
+  }
+
+
+  #allPosts{
+    float: right;
+    margin-left: 200px;
+    margin-top: -480px;
+  }
+
+  #lastthing{
+
+    margin-top: 100px;
+    margin-left: -20px;
+  }
+
+  
